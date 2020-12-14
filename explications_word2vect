@@ -1,0 +1,6 @@
+On a réussi à obtenir 3 graphes de points pour la dataset generale, le fake dataset et le true dataset. 
+On a observé des agglomérations de points qu'on a ensuite ciblés grace a la fonction plot_region() pour voir
+quels étaient ces mots. On remarque que pour les fake news on utilise beaucoup de mots de sujets controversés
+comme la religion ou l'immigration alors que pour la true dataset on remarque des mots techniques et habituels.
+(La disposition des mots change par rapport à l'affichage, alors la zone ciblée peut changer à l'exécution, se reférer aux photos
+que nous avons rajouté pour distinguer correctement un nuage de points)
