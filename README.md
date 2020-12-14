@@ -10,3 +10,4 @@ Etapes:
 #WOrd2vect
 #Interpretation par conjecture
 
+#lien github https://github.com/InadiaI/FakeNews
